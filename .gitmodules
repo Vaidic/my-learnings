@@ -1,0 +1,4 @@
+[submodule "ecom-micro-platform"]
+	path = ecom-micro-platform
+	url = git@github.com:Vaidic/my-learnings.git
+	branch = ecom-micro-platform
