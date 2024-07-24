@@ -1,0 +1,9 @@
+rootProject.name = 'micro-ecom'
+
+include 'api-gateway'
+include 'auth-service'
+include 'common'
+include 'discovery-service'
+include 'order-service'
+include 'product-service'
+include 'user-service'
