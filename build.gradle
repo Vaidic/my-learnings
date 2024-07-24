@@ -75,4 +75,13 @@ subprojects {
             html.required = true
         }
     }
+
+    bootJar {
+        enabled = false
+    }
+
+    jar {
+        enabled = false
+    }
+
 }
